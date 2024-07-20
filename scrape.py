@@ -1,5 +1,3 @@
-# python scrape.py get-metadata --from 2024-05-01 --to 2024-06-30 --industry-sector insurance
-
 import csv
 import datetime
 import time
